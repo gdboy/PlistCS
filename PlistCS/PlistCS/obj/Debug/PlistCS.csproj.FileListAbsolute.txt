@@ -1,0 +1,11 @@
+C:\game068\PlistCS\PlistCS\PlistCS\bin\Debug\PlistCS.exe
+C:\game068\PlistCS\PlistCS\PlistCS\bin\Debug\PlistCS.pdb
+C:\game068\PlistCS\PlistCS\PlistCS\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\game068\PlistCS\PlistCS\PlistCS\obj\Debug\PlistCS.exe
+C:\game068\PlistCS\PlistCS\PlistCS\obj\Debug\PlistCS.pdb
+E:\game068\PlistCS\PlistCS\PlistCS\bin\Debug\PlistCS.exe
+E:\game068\PlistCS\PlistCS\PlistCS\bin\Debug\PlistCS.pdb
+E:\game068\PlistCS\PlistCS\PlistCS\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\game068\PlistCS\PlistCS\PlistCS\obj\Debug\PlistCS.csprojResolveAssemblyReference.cache
+E:\game068\PlistCS\PlistCS\PlistCS\obj\Debug\PlistCS.exe
+E:\game068\PlistCS\PlistCS\PlistCS\obj\Debug\PlistCS.pdb
